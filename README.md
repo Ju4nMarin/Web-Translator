@@ -9,6 +9,7 @@
 ## Description
 
 **TraduceMAX** is a web application designed to translate text between different languages easily and quickly. The user-friendly interface and additional functionalities such as history and favorites enhance the user experience.
+- [Demo](https://traducemax.000webhostapp.com/)
 
 ## Features
 
