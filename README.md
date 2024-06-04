@@ -25,13 +25,13 @@
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-![Pantalla Principal]([ruta/a/tu/imagen1.png](https://imgur.com/X92wz1K))
+![Pantalla Principal](https://i.imgur.com/X92wz1K.png)
 
 ### Selección de Idiomas
-![Selección de Idiomas]([ruta/a/tu/imagen2.png](https://imgur.com/74bKujJ))
+![Selección de Idiomas](https://i.imgur.com/74bKujJ.jpeg)
 
 ### Modo Oscuro
-![Modo Oscuro]([ruta/a/tu/imagen3.png](https://imgur.com/egZT8Fg))
+![Modo Oscuro](https://i.imgur.com/egZT8Fg.png)
 
 ## Estructura del Proyecto
 
