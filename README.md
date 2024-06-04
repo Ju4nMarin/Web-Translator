@@ -1,7 +1,6 @@
 # TraduceMAX
 
 **Autor:** Juan Guillermo Marín Córdoba  
-**Curso:** Diseño de Interfaces - Noveno semestre  
 **Universidad:** Universidad Cooperativa de Colombia  
 **Carrera:** Ingeniería de Sistemas  
 **Ciudad:** Montería  
